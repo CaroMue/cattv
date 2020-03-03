@@ -1,0 +1,2252 @@
+@@ -0,0 +1,2251 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Afeefa Team"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.752,
+          51.064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Koordinierungsstelle für Integration bürgerschaftliches Engagement",
+        "marker-symbol": "suitcase"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8,
+          51.007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Frauencafé im Montagscafé",
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "heart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.75,
+          51.061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Kinder- und Jugendhaus \"Pat´s Colour Box\"",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.787,
+          51.055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Frauentreff",
+        "marker-symbol": "heart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.77,
+          51.013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "SPIKE Dresden",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.77,
+          51.013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Familienzentrum",
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.662,
+          51.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Elternfrühstück im Kindertreff \"Puzzle\"",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.657,
+          51.049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Chancenpatenschaften",
+        "marker-color": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.774,
+          51.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Omse e.V. ",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.663,
+          51.044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Kindertreff „Puzzle“",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.657,
+          51.049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Freitagstreff - Freunde in Dresden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.812,
+          51.002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Familien-Frauen Begegnungstreff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.704,
+          51.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Laubegast ist Bunt e.V."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.833,
+          51.028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Wir sind Paten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.763,
+          51.056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Willkommen in Löbtau e.V.",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.694,
+          51.038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Frauen-Treff für Migrantinnen",
+        "marker-symbol": "heart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.759,
+          51.029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Offenes Netzwerktreffen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.76,
+          51.052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Vätertreff im Ausländerrat Dresden e.V.",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.758,
+          51.026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Ausländerrat e.V. - Jugendtreff",
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.758,
+          51.026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "MOBA im Wohnheim (ehem. Hotel „Prinz-Eugen“)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.837,
+          51.019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Begegnungstreff Café Halva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.76,
+          51.055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "MOBA Spielwiese Prohlis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.798,
+          51.006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "MOBA Jägerpark",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.78,
+          51.073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Freifunk Dresden e.V."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.715,
+          51.046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Café International - Brücken schaffen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.78,
+          51.115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Bündnis Buntes Radebeul e.V."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.684,
+          51.107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Plauderrunde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.598,
+          51.11
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "yOUR Community",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.755,
+          51.063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Leuben ist bunt",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.817,
+          51.013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Ev.-Luth. Kirchspiel Dresden Neustadt",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.756,
+          51.064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Afropa e.V. - Verein für afrikanisch – europäische Verständigung",
+        "marker-symbol": "suitcase"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.74,
+          51.065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Gerede - homo, bi und trans e.V."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.759,
+          51.065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Treff für migrantische Mädchen und junge Frauen ab 14 Jahre",
+        "marker-color": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.76,
+          51.055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Jugendtreff Oase",
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "suitcase"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.704,
+          51.085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "KAMA Dresden e.V.",
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "suitcase"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.745,
+          51.063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Begegungscafé \"Go In\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.672,
+          51.048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "WIR AG Dresden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.755,
+          51.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Willkommen in Johannstadt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.76,
+          51.052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Gemeinnützige Gesellschaft Striesen Pentacon e.V."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.799,
+          51.041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Presseclub Dresden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.727,
+          51.036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "MuSe e.V. – Verein zur Förderung von Mut und Selbstvertrauen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.748,
+          51.073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Kaffee für Alle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.76,
+          51.047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "INDD e.V., Inklusionsprojekt",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.718,
+          51.077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Unterstützung für Flüchtlinge bei der Wohnungssuche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.751,
+          51.076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Ausländerrat Dresden e.V. - Bildungspatenschaften"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.726,
+          51.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Meet and Greet Jugendtreff",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.771,
+          51.052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Empatis – Jugendhilfe sucht Freiwillige"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.769,
+          51.049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "GENDERKOMPETENZZENTRUM Sachsen",
+        "marker-symbol": "heart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.759,
+          51.029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "CAMBIO e.V - Aktionswerkstatt für Umweltschutz und Menschenrechte",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.746,
+          51.069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Löbtop e.V. - Kulturverein für Löbtau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.692,
+          51.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "malobeo - Alternatives Café und anarchistische Bibliothek",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.75,
+          51.068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Jugendhaus Eule",
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.758,
+          51.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Cooking Action Dresden",
+        "marker-color": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.751,
+          51.076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Wohnprojekte RM16",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.72,
+          51.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Ehrenamtliche in der Erstaufnahmeeinrichtung Bremer Straße gesucht!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.706,
+          51.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Power4africa e.V.",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.754,
+          51.012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name ": "Montagscafé Staatsschauspiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.75,
+          51.061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Refugees Lead Action",
+        "marker-symbol": "suitcase"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.758,
+          51.067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "SeBa13",
+        "marker-symbol": "suitcase"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.8,
+          51.049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Asylpatenschaften"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.787,
+          51.018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Prohlis ist bunt",
+        "marker-symbol": "suitcase"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.798,
+          51.004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Wohnungspaten und Begleitung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.76,
+          51.052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Initiative zur Unterstützung geflüchteter Frauen in Dresden - ABC-Tische",
+        "marker-symbol": "heart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.694,
+          51.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Deutsch-russisches Kulturprojekt für Geflüchtete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.769,
+          51.068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Seidnitzer Nachbarschaft"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.808,
+          51.027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Lernpaten für unsere unbegleiteten minderjährigen Flüchtlinge gesucht",
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.72,
+          51.097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Jugendtreff »Upstairs«",
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.799,
+          51.041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Jugendtreff »EastEnd«",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.807,
+          51.035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Nebenan in Löbtau - die Nachbarschaftsinitiative „AG offenes Löbtau“"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.698,
+          51.041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Pieschen für alle - Standort Volkssolidarität"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.72,
+          51.082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Ausländerrat Dresden e.V. - Kita „Kleiner Globus“"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.737,
+          51.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Straßenkreuzer Treff",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.847,
+          51.061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "International Church of Dresden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.69,
+          51.04
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Kinder- und Familientreff Mosaik",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.817,
+          51.013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Pirnaer Tandem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.943,
+          50.963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Input + Küche für Alle",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.751,
+          51.076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Gottesdienste für Menschen aus Eritrea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.756,
+          51.064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Mangelwirtschaft",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.69,
+          51.074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Mutter-Kind Treff",
+        "marker-symbol": "heart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.759,
+          51.029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Bündnis Buntes Meißen",
+        "marker-symbol": "suitcase"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.463,
+          51.157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Netzwerk für Demokratie und Courage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.726,
+          51.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Ökumenische Arbeitsgruppe Flüchtlingshilfe Pirna/Initiative Begegnungscafe",
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "suitcase"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.94,
+          50.953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Begegnungstreff im Emmers",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.718,
+          51.077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "refugee*talk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.758,
+          51.065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Akifra e.V.",
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "heart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.769,
+          51.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Begegnungsstelle Asyl Versöhnungskirche",
+        "marker-symbol": "suitcase"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.799,
+          51.042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Borderless Diversity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.759,
+          51.065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Initiative \"Brücken schaffen\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.774,
+          51.111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Willkommensbündnis Tharanter Wald",
+        "marker-symbol": "suitcase"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.58,
+          50.956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Internationaler Treff - Baptisten Dresden",
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.689,
+          51.052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Ausflüge mit Kindern - Unterstützung für Gemeinschaftsunterkunft Strehlener Straße gesucht",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.744,
+          51.034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Café Hoffnung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.809,
+          51.022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Computerspiel-Labor",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.741,
+          51.07
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Krabbelkreis",
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "heart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.668,
+          51.043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Offener Kidstreff Stoffwechsel e.V.",
+        "marker-color": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.721,
+          51.079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Mit Offenen Armen e.V.",
+        "marker-color": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.692,
+          51.038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Anker Friedrichstadt e.V."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.726,
+          51.054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Offener Kindertreff Känguruh",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.753,
+          51.064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Frauentreff",
+        "marker-symbol": "heart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.668,
+          51.049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Internationales Begegnungszentrum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.941,
+          50.963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "heart",
+        "Name ": "FrauenBildungsHaus Dresden e.V."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.759,
+          51.029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Verein Pro Pieschen e.V."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.718,
+          51.079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "AZ Conni e.V.",
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.751,
+          51.076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Willkommen in Roßwein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.168,
+          51.071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Netzwerk Asyl Migration Flucht (NAMF)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.751,
+          51.076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "AG offenes Löbtau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.727,
+          51.057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Kinder- und Elternzentrum \"Kolibri\" e. V.",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.72,
+          51.056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "LOUISE Haus für Kinder, Jugendliche und Familien",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.75,
+          51.066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Tresen gegen Antiromaismus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.755,
+          51.063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Haselbachtal hilft"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.03,
+          51.238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Projekt Flüchtlinge in unserer Stadt Dresden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.739,
+          51.048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Atelier Frauenvielfalt",
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "heart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.463,
+          51.157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Interkulturelle Begegnungsstätte für junge Menschen \"ZMO-Jugend e.V.\"",
+        "marker-symbol": "suitcase"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.802,
+          51.038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Sächsischer Landfrauenverband e.V."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.11,
+          51.123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Dresden Postkolonial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.728,
+          51.028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "SUFW Betreutes Wohnen UmF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.665,
+          51.061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Waldspielplatz Albertpark",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.791,
+          51.072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Dresden.Respekt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.775,
+          51.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Christopher Street Day Dresden e.V."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.72,
+          51.042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Women*s Place",
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "heart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.782,
+          51.067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "AG Asylsuchende"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.941,
+          50.963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Dresden Plauen Miteinander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.715,
+          51.037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "HATiKVA e.V."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.758,
+          51.064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "ELIXIR - Experimentierzentrum für interkulturelles Leben",
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "suitcase"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.756,
+          51.078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "BIRD - Bündnis Inter-Religiöses Dresden e.V."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.766,
+          51.067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "P@chwork Intergrationsprojekt",
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.745,
+          51.066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Bündnis Bunte Westlausitz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.01,
+          51.145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Start with a Friend Dresden",
+        "marker-size": "",
+        "marker-symbol": "suitcase"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.757,
+          51.066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Willkommensbündnis Freital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.653,
+          51.016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Kindertreff JoJo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.76,
+          51.055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "AbenteuerSpielPlatz Johannstadt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.765,
+          51.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "AKuBiZ e.V.",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.942,
+          50.962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Kinder- und Jugendhaus EMMERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.718,
+          51.077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Netzwerk \"Bunte Neustadt\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.759,
+          51.065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Strehlen für Alle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.738,
+          51.049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Gemeinsam in Dresden West"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.66,
+          51.079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Eltern-Kind-Treff Mosaik",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.76,
+          51.055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Begegnungscafé für Geflüchtete und Einheimische",
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.793,
+          51.007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "JOHANNSTADT LEBEN – der JohannStadthalle e. V.",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.771,
+          51.049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Gruppe Cartonage",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.751,
+          51.076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Amnesty International Hochschulgruppe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.73,
+          51.028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Dresden für Alle e.V."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.774,
+          51.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Willkommen im Hochland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.851,
+          51.03
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Ehrenamtliche zur Unterstützung von Kindern und Jugendlichen an der 128. Oberschule „Carla von Wasa“ in Dresden-Reick gesucht"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.778,
+          51.021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Weinböhla Hilft"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.51,
+          51.155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Netzwerk Asyl Klingenberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.533,
+          50.918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Jugendwerk Dresden",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.844,
+          51.039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "International Friends Dresden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.742,
+          51.058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Kinder- und Jugendhaus Mareicke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.795,
+          51.011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "LAG politisch-kulturelle Bildung Sachsen e. V."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.72,
+          51.054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Samofa-Netzwerk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.755,
+          51.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Dresden - place to be e. V."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.736,
+          51.046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Vermittlungsstelle für Patenschaften"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.742,
+          51.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Bürgercourage e.V."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.759,
+          51.065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Coswig - Ort der Vielfalt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.698,
+          51.08
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Gastfreunde Dresden e. V."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.753,
+          51.069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "WillkommensKITAs",
+        "marker-symbol": "suitcase"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.774,
+          51.06
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Bündnis für Humanität und Toleranz Kamenz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.093,
+          51.27
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name ": "Kinder- und Jugendhaus Gruna \"Schieferburg\"",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.79,
+          51.032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-symbol": "suitcase",
+        "Name ": "djo-Deutsche Jugend in Europa, Landesverband Sachsen e.V.",
+        "marker-color": "#ffff00",
+        "marker-size": "medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.755,
+          51.063
+        ]
+      }
+    }
+  ]
+}
